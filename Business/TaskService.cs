@@ -38,9 +38,10 @@ namespace NTierTodoApp.Business
         }
 
  // TODO:   المهمة تنفيذ دالة حذف 
-        public void DeleteTask(int id) 
-        { 
-            // TODO: استدعاء دالة الحذف في طبقة DataAccess 
-        } 
+            public void DeleteTask(int id)
+        {
+            repository.Delete(id);
+        }
+
     }
 }
