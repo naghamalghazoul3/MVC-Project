@@ -1,0 +1,8 @@
+C:\Users\Ruba\Desktop\MvcTodoApp\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Ruba\Desktop\MvcTodoApp\obj\Debug\net9.0\MvcTodoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruba\Desktop\MvcTodoApp\obj\Debug\net9.0\MvcTodoApp.AssemblyInfoInputs.cache
+C:\Users\Ruba\Desktop\MvcTodoApp\obj\Debug\net9.0\MvcTodoApp.AssemblyInfo.cs
+C:\Users\Ruba\Desktop\MvcTodoApp\obj\Debug\net9.0\MvcTodoApp.csproj.CoreCompileInputs.cache
+C:\Users\Ruba\Desktop\MvcTodoApp\obj\Debug\net9.0\MvcTodoApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ruba\Desktop\MvcTodoApp\obj\Debug\net9.0\MvcTodoApp.RazorAssemblyInfo.cache
+C:\Users\Ruba\Desktop\MvcTodoApp\obj\Debug\net9.0\MvcTodoApp.RazorAssemblyInfo.cs
